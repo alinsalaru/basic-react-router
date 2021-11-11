@@ -1,3 +1,7 @@
+# Purpose
+
+This project was a demo for a FE bootcamp to show the use of react-router v6.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
